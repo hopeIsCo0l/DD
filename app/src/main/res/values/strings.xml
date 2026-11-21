@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DD</string>
+    <string name="home_title">Home</string>
+    <string name="home_description">Welcome to DD. Choose a destination to get started.</string>
+    <string name="customers_title">Customers</string>
+    <string name="settings_title">Settings</string>
+    <string name="action_back">Back</string>
+    <string name="action_save">Save</string>
+    <string name="customer_name">Customer name</string>
+    <string name="error_required">This field is required.</string>
+    <string name="customers_empty_title">No customers yet</string>
+    <string name="customers_empty_message">Customer management is coming soon.</string>
+    <string name="settings_empty_title">No settings available yet</string>
+    <string name="settings_empty_message">App preferences will appear here in a future update.</string>
+    <string name="status_loading">Loading…</string>
+    <string name="status_saving">Saving…</string>
+    <string name="status_saved">Changes saved.</string>
+    <string name="status_save_error">Could not save changes. Please try again.</string>
+</resources>
